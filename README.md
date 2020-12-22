@@ -357,6 +357,8 @@ The game initializes and we can start guessing!
 
 ![The game running on Repl.it](https://github.com/iamsid47/hangman-pics/blob/main/the%20game%20running.png)
 
+![You Did It](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
+
 ## Hack It!
 
 You got the game? Cool! Now, make it your own by adding even more stages for the hangman and don't forget to update `words.py` with your own words for more fun!
