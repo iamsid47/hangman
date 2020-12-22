@@ -1,3 +1,12 @@
+---
+name: 'Hangman Game'
+description: 'The Hangman game created using Python (runs even on command line)'
+author: '@iamsid47'
+img: https://github.com/iamsid47/hangman-pics/blob/main/hangman.png
+---
+
+![](https://github.com/iamsid47/hangman-pics/blob/main/hangman.png)
+
 *Hi Everyone! In this workshop, we will walkthrough how to build the game: ***Hangman!**** 
 
 This will be a simple command line game made using Python, that will allow user input and also put a visual of the current Hangman along the word that's being guessed at every turn!
