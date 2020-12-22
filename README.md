@@ -15,11 +15,15 @@ This will be a simple command line game made using Python, that will allow user 
 
 ### Files
 
-We will be writing all of our code to run the program in a single Python file called ```hangman.py``` Additionally we'll have another Python file called ```words.py``` that holds a long list of words to use for the game.
+We will be writing all of our code to run the program in a single Python file called ```hangman.py``` or ```main.py``` Additionally we'll have another Python file called ```words.py``` that holds a long list of words to use for the game.
+
+![The Files](https://github.com/iamsid47/hangman-pics/blob/main/files.png)
 
 ## Ready. Set. Go!
 
 Let's head over to [Repl.it](https://repl.it) and create a new **repl**. Choose the language as **Python** and name your **repl**.
+
+![Creating a repl](https://github.com/iamsid47/hangman-pics/blob/main/create%20a%20repl.png)
 
 First, we need to define a function called ```get_word()``` which will return a word for our game. For this function we can either create a list of words or we can import a list of words for the program to choose from.
 
@@ -360,6 +364,12 @@ You got the game? Cool! Now, make it your own by adding even more stages for the
 [Dog Instead Of Hangman](https://repl.it/@iamsid47/Save-The-Dog)
 
 [Mc Donalads Instead Of Hangman](https://repl.it/@iamsid47/Macdonald-Fam)
+
+## How Does It Work & Look?
+
+![Changes Taking Place](https://github.com/iamsid47/hangman-pics/blob/main/changes%20taking%20place.png)
+![Game Running](https://github.com/iamsid47/hangman-pics/blob/main/game%20running.png)
+![Incorrect Word](https://github.com/iamsid47/hangman-pics/blob/main/incorrect%20word.png)
 
 ## Source Code
 
