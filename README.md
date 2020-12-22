@@ -351,7 +351,11 @@ And we're good to go!
 
 Now let's run our program ;) So, to start the game click the **RUN** button.
 
+![The Run button](https://github.com/iamsid47/hangman-pics/blob/main/run.png)
+
 The game initializes and we can start guessing!
+
+![The game running on Repl.it](https://github.com/iamsid47/hangman-pics/blob/main/the%20game%20running.png)
 
 ## Hack It!
 
